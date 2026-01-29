@@ -24,11 +24,7 @@ words_per_minute: 160
 author:
   name: "Mojtaba Houballah"
   avatar: "/images/profile.png"   # <-- MUST exist exactly at this path
-  bio: >
-    Postdoctoral researcher working on agroecosystem and forest ecosystem
-    modelling, carbon dynamics, and land surface models (ORCHIDEE–STICS).
-    Interested in multicriteria evaluation and viability-based management
-    of socio-ecological systems.
+  bio:
   location: "France"
   employer: "LSCE – CEA / IPSL"
   email: "mojtaba.houballah@lsce.ipsl.fr"
