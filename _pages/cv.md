@@ -6,15 +6,6 @@ permalink: /cv/
 
 [Download PDF version](../files/CV_Houballah.pdf)
 
-## Identity
-
-**Mojtaba Houballah**  
-Postdoctoral Researcher  
-Laboratoire des Sciences du Climat et de l’Environnement (LSCE), CEA–IPSL  
-Email: mojtaba.houballah@lsce.ipsl.fr  
-
----
-
 ## Education
 
 - **PhD in Informatics**, Université Clermont-Auvergne, France (2019)  
@@ -46,7 +37,7 @@ Email: mojtaba.houballah@lsce.ipsl.fr
 
 - Agroecosystem and forest ecosystem modelling  
 - Soil organic carbon and biogeochemical cycles  
-- Land surface models (ORCHIDEE, STICS)  
+- Land surface models
 - Multicriteria analysis and viability theory  
 - Socio-ecological systems and resource management  
 
@@ -80,7 +71,7 @@ Email: mojtaba.houballah@lsce.ipsl.fr
 
 - **Houballah, M.**, et al.  
   *Simulation of decadal variations in soil organic carbon stocks in French forests.*  
-  **Accepted with revisions.**
+  **Accepted pending revisions.**
 
 - **Houballah, M.**, Guenet, B., Bastrikov, V., Peylin, P., Vuichard, N.  
   *Development of ORCHIDEE-CROP v1.0: a nitrogen-explicit agro-land surface model.*  
@@ -89,19 +80,6 @@ Email: mojtaba.houballah@lsce.ipsl.fr
 - **Houballah, M.**, Courtonne, J.-Y., et al.  
   *The aftermath of the Covid pandemic in the forest sector: new opportunities for emerging wood products.*  
   *Preprint (arXiv).*
-
----
-
-## Conferences and Seminars (selected)
-
-- European Geosciences Union (EGU), Vienna, 2023  
-  *Applying the AMG soil organic carbon model to French forests.*
-
-- World Conference on Natural Resource Modelling, Barcelona, 2017
-
-- Conference on Complex Systems, Thessaloniki, 2018
-
-- International Association for the Study of the Commons, USA, 2019
 
 ---
 
