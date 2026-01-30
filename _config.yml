@@ -21,7 +21,7 @@ repository: "mojtabahouballah/mojtabahouballah.github.io"
 # =========================================================
 author:
   name: "Mojtaba Houballah"
-  avatar: "/images/profile.png"   # <-- MUST exist exactly at this path
+  avatar: "profile.png"   # <-- MUST exist exactly at this path
   bio:
   location: "France"
   employer: "LSCE – CEA / IPSL"
